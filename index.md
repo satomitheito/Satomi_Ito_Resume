@@ -118,7 +118,7 @@ Jan 2020 - Mar 2020
 ### Plastic Pollution 
 Dec 2016 - May 2017
 
-[Youtube Channel][https://www.youtube.com/channel/UCsUIRQA5K7pmY320n5euXug]
+[Youtube Channel](https://www.youtube.com/channel/UCsUIRQA5K7pmY320n5euXug)
 
 
 
