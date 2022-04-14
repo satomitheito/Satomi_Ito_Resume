@@ -1,5 +1,6 @@
-# Satomi Ito 
 Phone: +1 858-306-5404 | Email: satomitheito@gmail.com | Linkedin: satomitheito
+
+[Google Docs Version](https://docs.google.com/document/d/16ljBFjZszeJv5OTnmaDkCz9BR4LCdXQwsXf7uN9k_5Q/edit?usp=sharing)
 
 ---
 ## Education
