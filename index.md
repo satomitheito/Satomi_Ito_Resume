@@ -26,7 +26,37 @@ Sept 2015 - Jun 2019
 ### Research Intern - NEATLabs
 Jan 2022 - Present 
 
-[NEATLabs](https://neatlabs.ucsd.edu/index.html)
+(Insert explanation)
+
+[NEATLabs Website](https://neatlabs.ucsd.edu/index.html)
+
+
+### Treasurer - Cognitive Science Student Association 
+May 2021 - Present
+
+(Insert explanation)
+
+[CSSA Website](https://cssa-ucsd.org/#/)
+
+
+### Trainee - Fairygon 
+Feb 2020 - Apr 2020
+
+(Insert explanation) 
+
+
+### Fellow - Office Of Student Organizations | Associated Students
+Oct 2019 - Mar 2020 
+
+(Insert explanation) 
+
+
+### English Tutor - Enopi Eye Level Learning Centre 
+Dec 2018- Jun 2019
+
+(Insert explanation) 
+
+---
 
 ## Projects 
 
