@@ -12,7 +12,7 @@ Sept 2019 - Jun 2023
 ### Columbia Summer, New York
 *Introduction to Business, Finance, and Economics*
 
-Jun 2018 - June 2018
+Jun 2018 - Jul 2018
 
 
 ### American International School of Hong Kong
@@ -56,7 +56,7 @@ Oct 2019 - Mar 2020
 
 
 ### English Tutor - Enopi Eye Level Learning Centre 
-Dec 2018- Jun 2019
+Dec 2018 - Jun 2019
 
 (Insert explanation) 
 
