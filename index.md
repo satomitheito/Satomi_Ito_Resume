@@ -1,13 +1,12 @@
 Phone: +1 858-306-5404 | Email: satomitheito@gmail.com | Linkedin: satomitheito
 
-[Google Docs Version](https://docs.google.com/document/d/16ljBFjZszeJv5OTnmaDkCz9BR4LCdXQwsXf7uN9k_5Q/edit?usp=sharing)
-
 ---
 ## Education
 ### University of California, San Diego 
 *Bachelor of Science | Major: Cognitive Science with a Specialization in Machine Learning and Neural Computation | Minor: Computer Science*
 
 Sept 2019 - Jun 2023
+
 
 ### Columbia Summer, New York
 *Introduction to Business, Finance, and Economics*
@@ -23,37 +22,48 @@ Sept 2015 - Jun 2019
 ---
 
 ## Experiences 
-### Research Intern - NEATLabs
-Jan 2022 - Present 
 
-(Insert explanation)
+### Cognitive Science Student Association
+[CSSA Website](https://cssa-ucsd.org/#/)
+### - Co-President 
+May 2022 - Present
+
+- Providede leadership to the executive board of the organization. 
+- Conducted weekly meetings to ensure that everyone is meeting their delegated responsability.
+- Maintained regular communication with school advisors and industry professionals. 
+
+
+### - Treasurer 
+May 2021 - May 2022
+
+- Oversaw the financial administration of the organization. 
+- Allocated budgets to our events, organized fundraisers, and made necessary purchases. 
+- Collaborated with various board and committee with financing their projects and needs.
+
+--
+
+### Research Intern - NEATLabs
+Jan 2022 - Jun 2022 
+
+- Assembled and EEG caps on participants. 
 
 [NEATLabs Website](https://neatlabs.ucsd.edu/index.html)
 
-
-
-### Treasurer - Cognitive Science Student Association 
-May 2021 - Present
-
-(Insert explanation)
-
-[CSSA Website](https://cssa-ucsd.org/#/)
-
-
+--
 
 ### Trainee - Fairygon 
 Feb 2020 - Apr 2020
 
 (Insert explanation) 
 
-
+--
 
 ### Fellow - Office Of Student Organizations | Associated Students
 Oct 2019 - Mar 2020 
 
 (Insert explanation) 
 
-
+--
 
 ### English Tutor - Enopi Eye Level Learning Centre 
 Dec 2018 - Jun 2019
