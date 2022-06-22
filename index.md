@@ -28,7 +28,7 @@ Sept 2015 - Jun 2019
 ### - Co-President 
 May 2022 - Present
 
-- Providede leadership to the executive board of the organization. 
+- Provided leadership to the executive board of the organization. 
 - Conducted weekly meetings to ensure that everyone is meeting their delegated responsability.
 - Maintained regular communication with school advisors and industry professionals. 
 
