@@ -45,7 +45,8 @@ May 2021 - May 2022
 ### Research Intern - NEATLabs
 Jan 2022 - Jun 2022 
 
-- Assembled and EEG caps on participants. 
+- Assembled EEG caps on participants. 
+- Helped conduct human research that stimulates brain plasticity in target circuits and its changing behavior.
 
 [NEATLabs Website](https://neatlabs.ucsd.edu/index.html)
 
@@ -54,7 +55,7 @@ Jan 2022 - Jun 2022
 ### Trainee - Fairygon 
 Feb 2020 - Apr 2020
 
-(Insert explanation) 
+(Insert explanation)
 
 --
 
@@ -68,9 +69,8 @@ Oct 2019 - Mar 2020
 ### English Tutor - Enopi Eye Level Learning Centre 
 Dec 2018 - Jun 2019
 
-(Insert explanation) 
-
-
+- Worked with groups of children in honing their English skills
+- Provided individual materials that would focus on various aspects of the language. 
 
 ---
 
