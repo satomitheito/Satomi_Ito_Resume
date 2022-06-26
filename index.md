@@ -76,6 +76,14 @@ Dec 2018 - Jun 2019
 
 ## Projects 
 
+### Predicting K-Complexes and Spindles - COGS 118A (Supervised Machine Learning Algorithms)
+May 2022 - Jun 2022
+
+[Github](https://github.com/COGS118A/Group016-Sp22/blob/main/FinalProject_group016.ipynb)
+
+
+
+
 ### Classifying Animal Images - COGS 118B (Intro to Machine Learning II)
 Mar 2022 - Mar 2022
 
