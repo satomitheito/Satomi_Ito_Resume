@@ -1,4 +1,4 @@
-Phone: +1 858-306-5404 | Email: satomitheito@gmail.com | Linkedin: satomitheito
+Phone: +1 858-306-5404 | Email: satomitheito@gmail.com | Linkedin: [satomitheito](https://www.linkedin.com/in/satomitheito/)
 
 ---
 ## Education
@@ -55,14 +55,17 @@ Jan 2022 - Jun 2022
 ### Trainee - Fairygon 
 Feb 2020 - Apr 2020
 
-(Insert explanation)
+- Reviewed documents before they were finalised. 
+- Worked closely with fellow associates in various tasks. 
 
 --
 
 ### Fellow - Office Of Student Organizations | Associated Students
 Oct 2019 - Mar 2020 
 
-(Insert explanation) 
+- Helped oversee budget proposals sent by student organizations. 
+- Utilized Excel to categorize budget reports into a detailed table. 
+- Conducted meetings and collaborated with various organizations in funding their needs. 
 
 --
 
